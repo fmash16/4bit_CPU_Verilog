@@ -1,11 +1,3 @@
----
-title: "4 bit CPU design in Verilog          (EEE 415 ASSIGNMENT)"
-author: [1606046 - Fahim Mashroor]
-titlepage: true
-titlepage-text-color: "000000"
-logo: buet.png
----
-
 # Supplied Instruction Set
 
 | NO | HEX CODE | INSTRUCTION       |
